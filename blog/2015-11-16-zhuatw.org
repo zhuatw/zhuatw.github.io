@@ -1,0 +1,13 @@
+#+TITLE: zhuatw
+#+DATE: 2015-11-16
+#+SETUPFILE: ~/hexo/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 
+#+JEKYLL_TAGS: 
+#+JEKYLL_PUBLISHED: true
+
+* test 
+test
+
+{{{more}}}
+ok octopress
